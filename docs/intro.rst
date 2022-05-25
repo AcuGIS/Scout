@@ -9,7 +9,7 @@ AcuGIS Scout is a simple mobile form builder for PostgreSQL.
 It creates a form based upon a single table, as well as capturing lat/lon and altitude.
 
 
-.. image:: _static/WelcomeApp.png
+.. image:: _static/intro.png
 
 
 System Requirements
