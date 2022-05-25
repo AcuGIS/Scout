@@ -1,7 +1,5 @@
-PostGIS Builder
+AcuGIS Scout
 ==================================================
-
- .. image:: _static/postgis.png
 
 .. include:: ../README.rst
 
