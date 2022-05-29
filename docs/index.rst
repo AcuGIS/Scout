@@ -12,7 +12,7 @@ AcuGI Scout
    installing
    
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
     :caption: Prepare
 
     prepare/createtable/index
@@ -23,34 +23,14 @@ AcuGI Scout
   
     
 .. toctree::
-    :maxdepth: 2
-    :caption: Database
+    :maxdepth: 3
+    :caption: Get Data
 
-    database/snapshot/index
-    database/clone/index
-    database/restore/index
+    getdata/snapshot/index
+    getdata/clone/index
+    getdata/restore/index
     
     
-.. toctree::
-    :maxdepth: 2
-    :caption: Varnish Cache
-
-    cache/varnish/index
-    cache/hitch/index
-    cache/apache/index
-    
-    
-.. toctree::
-    :maxdepth: 2
-    :caption: Apps
-
-    apps/home
-    apps/geodjango
-    apps/geojson
-    apps/pgtileserv
-    apps/nodejs
-    
-  
 .. toctree::
     :maxdepth: 2
     :caption: Resources
