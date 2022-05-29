@@ -44,11 +44,9 @@ AcuGI Scout
     :maxdepth: 2
     :caption: Resources
 
-    resources/css
-    resources/security
     resources/support
     resources/commercial
-    resources/license
+
     
     
     
