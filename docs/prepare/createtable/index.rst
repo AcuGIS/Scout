@@ -39,3 +39,22 @@ So create an appropriate sequence
     	CACHE 1;
 	
 In the next section, we'll look at optional field data types.
+
+# Mandatory Columns
+
+## id
+
+Primary key with autoincrement.  Does not appear on rendered form
+
+## location
+
+Stores location as lat/lon point
+
+## latlngalt
+
+Stores altitude, along with lat/lon as json
+
+## timestamp
+
+Stores date and time
+
