@@ -17,7 +17,7 @@ AcuGIS Scout
     prepare/createtable/index
     prepare/images/index
     prepare/qr/index
-    prepare/images/index
+    prepare/location/index
         
 .. toctree::
     :maxdepth: 2
