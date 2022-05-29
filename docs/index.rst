@@ -27,9 +27,10 @@ AcuGI Scout
     :maxdepth: 2
     :caption: Usage
 
-    usage/apache/index
-    usage/hitch/index
-    usage/varnish/index
+    usage/datasource/index
+    usage/insert/index
+    usage/edit/index
+    usage/view/index
  
 .. toctree::
     :maxdepth: 2
