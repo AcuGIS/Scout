@@ -12,7 +12,7 @@ AcuGI Scout
    installing
    
 .. toctree::
-    :maxdepth: 3
+    :maxdepth: 2
     :caption: Prepare
 
     prepare/createtable/index
