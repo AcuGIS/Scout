@@ -17,10 +17,10 @@ AcuGI Scout
     :caption: Prepare
 
     prepare/createtable/index
-    components/images/index
-    components/location/index
-    components/qr/index
-    components/altitude/index
+    prepare/images/index
+    prepare/location/index
+    prepare/qr/index
+    prepare/altitude/index
   
     
 .. toctree::
