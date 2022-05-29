@@ -16,7 +16,7 @@ System Requirements
 Authors
 -------
 * `AcuGIS`_
-* `Kaloyan Petrov`_
+
 
 .. _`AcuGIS`: https://www.acugis.com
 
