@@ -11,15 +11,16 @@ AcuGI Scout
    intro
    installing
    
+   
 .. toctree::
     :maxdepth: 2
     :caption: Prepare
 
+    prepare/altitude/index
     prepare/createtable/index
     prepare/images/index
     prepare/location/index
     prepare/qr/index
-    prepare/altitude/index
     
     
 .. toctree::
