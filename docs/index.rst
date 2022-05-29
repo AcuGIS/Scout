@@ -14,7 +14,7 @@ AcuGIS Scout
     :maxdepth: 3
     :caption: Prepare Form
 
-prepare/createtable/index
+    prepare/createtable/index
     prepare/images/index
     prepare/qr/index
     prepare/images/index
