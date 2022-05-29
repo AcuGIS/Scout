@@ -40,21 +40,26 @@ So create an appropriate sequence
 	
 In the next section, we'll look at optional field data types.
 
-# Mandatory Columns
+Mandatory Columns
+===============
 
-## id
+id
+---------------
 
 Primary key with autoincrement.  Does not appear on rendered form
 
-## location
+location
+---------------
 
 Stores location as lat/lon point
 
-## latlngalt
+latlngalt
+---------------
 
 Stores altitude, along with lat/lon as json
 
-## timestamp
+timestamp
+---------------
 
 Stores date and time
 
