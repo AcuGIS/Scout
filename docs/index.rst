@@ -17,7 +17,6 @@ AcuGI Scout
     :caption: Prepare
 
     prepare/createtable/index
-    prepare/location/index
     prepare/images/index
     prepare/altitude/index   
     prepare/qr/index
