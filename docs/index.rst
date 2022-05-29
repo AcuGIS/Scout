@@ -36,9 +36,9 @@ AcuGI Scout
     :maxdepth: 2
     :caption: Get Data
 
-    getdata/snapshot/index
-    getdata/clone/index
-    getdata/restore/index
+    getdata/SQL Examples/index
+    getdata/images/index
+    
     
 .. toctree::
     :maxdepth: 2
