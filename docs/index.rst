@@ -1,7 +1,6 @@
-PostGIS Builder
+AcuGI Scout
 ==================================================
 
- .. image:: _static/postgis.png
 
 .. include:: ../README.rst
 
@@ -11,21 +10,18 @@ PostGIS Builder
 
    intro
    installing
-   wizard
-   webmin
+   
    
 .. toctree::
     :maxdepth: 3
-    :caption: Components
+    :caption: Prepare
 
-    components/postgresql/index
-    components/postgis/index
-    components/pgrouting/index
-    components/shp2pgsql/index
-    components/osm2pgsql/index
-    components/raster2pgsql/index
-    components/pgtileserv/index
-    components/pgfeatureserv/index   
+    prepare/createtable/index
+    components/images/index
+    components/location/index
+    components/qr/index
+    components/altitude/index
+  
     
 .. toctree::
     :maxdepth: 2
