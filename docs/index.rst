@@ -20,6 +20,15 @@ AcuGI Scout
     prepare/location/index
     prepare/qr/index
     prepare/altitude/index
+    
+    
+.. toctree::
+    :maxdepth: 2
+    :caption: Usage
+
+    usage/apache/index
+    usage/hitch/index
+    usage/varnish/index
  
 .. toctree::
     :maxdepth: 2
