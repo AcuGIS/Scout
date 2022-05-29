@@ -18,7 +18,6 @@ AcuGI Scout
 
     prepare/createtable/index
     prepare/images/index
-    prepare/altitude/index   
     prepare/qr/index
     
     
