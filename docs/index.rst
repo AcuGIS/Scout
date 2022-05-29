@@ -10,8 +10,6 @@ AcuGI Scout
 
    intro
    installing
-   installing
-   installing
    
 .. toctree::
     :maxdepth: 3
@@ -22,16 +20,14 @@ AcuGI Scout
     prepare/location/index
     prepare/qr/index
     prepare/altitude/index
-  
-    
+ 
 .. toctree::
-    :maxdepth: 3
+    :maxdepth: 2
     :caption: Get Data
 
     getdata/snapshot/index
     getdata/clone/index
     getdata/restore/index
-    
     
 .. toctree::
     :maxdepth: 2
