@@ -17,7 +17,7 @@ The minimum requirements are four columns 'id', 'location', 'latlngalt',  and 't
 Create the table in PostgreSQL:
 
 .. code-block:: console
-   :linenos:
+
 
 CREATE TABLE mytable (
     id integer DEFAULT nextval('public.my_id_seq'::regclass) NOT NULL,
@@ -31,7 +31,6 @@ AcuGIS Scout is programmed to ignore Primary auto-incremented key when creating 
 So create an appropriate sequence
 
 .. code-block:: console
-   :linenos:
 
 CREATE SEQUENCE public.my_id_seq
     START WITH 1
