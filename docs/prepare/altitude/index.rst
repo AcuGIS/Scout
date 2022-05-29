@@ -11,3 +11,18 @@
 **********************
 Altitude
 **********************
+
+The altitude column, 'latlngalt' is mandatory and stores altitude as well as lat/lon as json type.
+
+Create the table in PostgreSQL:
+
+.. code-block:: console
+
+	CREATE TABLE mytable (
+    	id integer DEFAULT nextval('public.my_id_seq'::regclass) NOT NULL,
+    	location point,
+    	##latlngalt json,##
+    	"timestamp" timestamp without time zone
+	);
+
+
