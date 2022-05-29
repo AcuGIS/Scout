@@ -10,6 +10,8 @@ AcuGI Scout
 
    intro
    installing
+   installing
+   installing
    
 .. toctree::
     :maxdepth: 3
