@@ -16,10 +16,10 @@ AcuGI Scout
     :maxdepth: 2
     :caption: Prepare
 
-    prepare/altitude/index
     prepare/createtable/index
-    prepare/images/index
     prepare/location/index
+    prepare/images/index
+    prepare/altitude/index   
     prepare/qr/index
     
     
