@@ -1,5 +1,3 @@
- .. image:: _static/acugis.png
-
 AcuGIS Scout
 ==================================================
 
