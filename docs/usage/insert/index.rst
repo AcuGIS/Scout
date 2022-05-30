@@ -40,3 +40,9 @@ Clicking the icon will open the QR Scanner function as shown below
 Simply place the QR code within the box and the code will be scanned.
 
 2. image (bytea)
+
+For image fields, clicking the green "Image" button will open the camera function.
+
+From here you can take a photo or select an existing photo from your gallery, as shown below
+  
+  .. image:: _static/scout-image-capture.jpg
