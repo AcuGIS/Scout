@@ -1,9 +1,7 @@
-AcuGIS Scout
-==================================================
-
-
  .. image:: _static/acugis.png
 
+AcuGIS Scout
+==================================================
 
 
 .. include:: ../README.rst
