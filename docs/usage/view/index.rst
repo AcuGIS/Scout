@@ -9,3 +9,9 @@
 **********************
 View Data
 **********************
+
+To view data for a given Connection, click the 3 dots for the drop down menu and select "View Data" as shown below
+
+ .. image:: _static/scout-speed-menu.jpg  
+ 
+Make your changes and click "Save"
