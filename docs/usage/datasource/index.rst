@@ -3,9 +3,14 @@
 
 .. demo.rst from: http://docutils.sourceforge.net/docs/user/rst/demo.txt
 
-.. |EXAMPLE| image:: static/yi_jing_01_chien.jpg
+.. |EXAMPLE| image:: static/add-connection.jpg
    :width: 1em
 
 **********************
 Create Datasource
 **********************
+
+To create a new Connection (Datasource), click New Connection at the bottom of the screen as show below
+
+ .. image:: _static/add-connection.jpg
+
