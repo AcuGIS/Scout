@@ -20,6 +20,7 @@ AcuGI Scout
     prepare/images/index
     prepare/qr/index
     prepare/add/index
+    prepare/security/index
     
     
 .. toctree::
