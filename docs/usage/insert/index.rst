@@ -12,7 +12,7 @@ Insert Row
 
 To insert a new row, click the 3 dots for the drop down menu and select "Insert New Row" as shown below
 
- .. image:: _static/speed-menu.jpg  
+ .. image:: _static/scout-speed-menu.jpg  
  
 Your form should now open as shown below
  
