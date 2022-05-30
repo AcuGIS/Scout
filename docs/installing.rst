@@ -2,6 +2,6 @@
 Installation
 ************
 
-Installation can be done via Google PlayStore or Apple
+AcuGIS Scout is installed via Google PlayStore or Apple
 
 
