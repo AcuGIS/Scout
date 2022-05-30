@@ -7,7 +7,7 @@
    :width: 1em
 
 **********************
-Create Datasource
+Create Connection
 **********************
 
 Create New Connection
