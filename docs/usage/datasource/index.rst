@@ -10,7 +10,23 @@
 Create Datasource
 **********************
 
+New Connections (Datasources), can be added via the home page.
+
 To create a new Connection (Datasource), click 'Add Connection' at the bottom of the screen as show below
 
- .. image:: _static/add-connection.jpg
+ .. image:: _static/add-connection.jpg  
+ 
+ 
+ 
+ 
+ 
+      
+      
+      
+      
+      
+ Enter the required information as show below   
+ 
+ 
+  .. image:: _static/connection-info.jpg
 
