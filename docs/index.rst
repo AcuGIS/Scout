@@ -2,6 +2,10 @@ AcuGIS Scout
 ==================================================
 
 
+ .. image:: _static/acugis.png
+
+
+
 .. include:: ../README.rst
 
 .. toctree::
