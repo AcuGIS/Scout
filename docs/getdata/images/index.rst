@@ -9,3 +9,12 @@
 **********************
 Images
 **********************
+
+Images can be queried directly from the database, of course, for rendering into your applications.
+
+If you wish to pull images directly from the database to the file system, you can use similar to below
+
+.. code-block:: console
+
+psql -d mydb -Aqt -c "SELECT encode(myimagecol, 'base64') FROM mytable where id=88" | base64 -d > mypicture.png
+
