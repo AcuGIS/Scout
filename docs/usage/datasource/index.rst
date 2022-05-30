@@ -10,7 +10,7 @@
 Create Datasource
 **********************
 
-To create a new Connection (Datasource), click New Connection at the bottom of the screen as show below
+To create a new Connection (Datasource), click 'Add Connection' at the bottom of the screen as show below
 
  .. image:: _static/add-connection.jpg
 
