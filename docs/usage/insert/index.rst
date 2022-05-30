@@ -45,4 +45,4 @@ For image fields, clicking the green "Image" button will open the camera functio
 
 From here you can take a photo or select an existing photo from your gallery, as shown below
   
-  .. image:: _static/scout-image-capture.jpg
+  .. image:: _static/image-options.jpg
