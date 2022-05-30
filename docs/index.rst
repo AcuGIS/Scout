@@ -19,6 +19,7 @@ AcuGI Scout
     prepare/createtable/index
     prepare/images/index
     prepare/qr/index
+    prepare/add/index
     
     
 .. toctree::
