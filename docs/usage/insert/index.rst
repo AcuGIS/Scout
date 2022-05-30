@@ -21,3 +21,22 @@ Your form should now open as shown below
   
   
   Once all of the fields are popluated, click the "Insert" button.
+  
+Feild Types
+**********************
+
+Scout produces 2 field types:
+
+1. Text and QR
+
+All text fields (charactervarying) include option to scan QR code.  At the right side of the text field, the image below appears:
+
+  .. image:: _static/qr-icon.jpg
+  
+Clicking the icon will open the QR Scanner function as shown below
+  
+  .. image:: _static/qr-scan.jpg
+  
+Simply place the QR code within the box and the code will be scanned.
+
+2. image (bytea)
