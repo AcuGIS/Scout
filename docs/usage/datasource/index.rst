@@ -24,4 +24,7 @@ Enter Connection Info
  
  
   .. image:: _static/connection-info.jpg
+  
+  
+  Once all of the fields are popluated, click the "Add" button.
 
