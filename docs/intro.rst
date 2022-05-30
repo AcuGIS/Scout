@@ -13,7 +13,7 @@ In addition to rendering form fields, it also captures lat/lon and altitude.
 Scout is designed for ease of use, allowing you deploy and update mobile forms quickly and easily.
 
 
-Requirements
+Operating Systems
 -------------------
 * Android
 * iOS
@@ -29,13 +29,5 @@ Authors
 
 
 
-Components
-----------
-
-
-GNU GENERAL PUBLIC LICENSE v3
-
-
-
-    
+   
 
