@@ -17,7 +17,7 @@ To insert a new row, click the 3 dots for the drop down menu and select "Insert 
 Your form should now open as shown below
  
  
-  .. image:: _static/enter-data.jpg
+  .. image:: _static/scout-connection-info.jpg
   
   
   Once all of the fields are popluated, click the "Insert" button.
