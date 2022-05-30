@@ -9,3 +9,9 @@
 **********************
 Edit Datasource
 **********************
+
+To edit a data source, click the 3 dots for the drop down menu and select "Edit Connection" as shown below
+
+ .. image:: _static/scout-speed-menu.jpg  
+ 
+Make your changes and click "Save" 
