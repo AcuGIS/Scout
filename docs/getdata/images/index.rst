@@ -16,5 +16,5 @@ If you wish to pull images directly from the database to the file system, you ca
 
 .. code-block:: console
 
-psql -d mydb -Aqt -c "SELECT encode(myimagecol, 'base64') FROM mytable where id=88" | base64 -d > mypicture.png
+   psql -d mydb -Aqt -c "SELECT encode(myimagecol, 'base64') FROM mytable where id=88" | base64 -d > mypicture.png
 
