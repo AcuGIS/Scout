@@ -7,7 +7,7 @@
    :width: 1em
 
 **********************
-Edit Datasource
+Edit Connection
 **********************
 
 To edit a data source, click the 3 dots for the drop down menu and select "Edit Connection" as shown below
