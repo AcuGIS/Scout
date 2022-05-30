@@ -20,7 +20,10 @@ To create a new Connection (Datasource), click 'Add Connection' at the bottom of
  
 Enter Connection Info
 ----------------------
- Enter the required information as show below   
+ Enter the required information as show below  
+ 
+ .. Note:: 
+   The table location defaults to the Public schema.  If you are using another schema, enter the schema name and table name in the database table field, seperated by a      dot.  For example, for Schema myschema and table mytable, enter as myschema.mytable  For Public schema, you do not need to specifiy the schema.
  
  
   .. image:: _static/connection-info.jpg
