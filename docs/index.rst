@@ -34,10 +34,11 @@ AcuGIS Scout
  
 .. toctree::
     :maxdepth: 2
-    :caption: Get Data
+    :caption: Query Data
 
     getdata/SQL Examples/index
     getdata/images/index
+    getdata/GEOM/index
     
     
 .. toctree::
