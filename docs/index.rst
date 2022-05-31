@@ -45,8 +45,8 @@ AcuGIS Scout
     :maxdepth: 2
     :caption: Resources
 
-    resources/support
     resources/commercial
+    resources/issues
 
     
     
