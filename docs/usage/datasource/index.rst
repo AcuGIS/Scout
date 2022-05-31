@@ -30,6 +30,6 @@ Enter the required information as show below
 
 
  .. IMPORTANT:: 
-   The table location defaults to the Public schema.  If you are using another schema, enter the schema name and table name in the database table field, seperated by a      dot.  For example, for Schema myschema and table mytable, enter as myschema.mytable  For Public schema, you do not need to specifiy the schema.
+   The table location defaults to the Public schema.  If you are using another schema, enter the schema name and table name in the database table field, seperated by a      dot.  For example, for Schema 'myschema' and Table 'mytable', enter as 'myschema.mytable'  For Public schema, you do not need to specifiy the schema.
 
 Once all of the fields are popluated, click the "Add" button.
