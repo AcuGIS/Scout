@@ -38,7 +38,7 @@ AcuGIS Scout
 
     getdata/SQL Examples/index
     getdata/images/index
-    getdata/GEOM/index
+    getdata/geom/index
     
     
 .. toctree::
