@@ -40,7 +40,7 @@ If you wish to automate this, you can create a trigger like below to update a ge
   CREATE OR REPLACE FUNCTION togeom() RETURNS trigger
      LANGUAGE plpgsql AS
   $$BEGIN 
-     NEW.geom = (select ST_SetSRID((new.location)::GEOMETRY(POINT), 4326) from qt LIMIT 1);
+     NEW.geom = (select ST_SetSRID((new.location)::GEOMETRY(POINT), 4326) from mytable LIMIT 1);
     RETURN NEW; 
   END;$$;
 
