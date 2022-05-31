@@ -32,3 +32,18 @@ This will provide the output in WKT format as below::
 
   SRID=4326;POINT(28.657320220545436 -81.2845245094787)
   SRID=4326;POINT(31.7408504 34.9883978)
+  
+If you wish to automate this, you can create a trigger like below to update a geom column within the table or in another table
+
+.. code-block:: console
+
+  CREATE OR REPLACE FUNCTION togeom() RETURNS trigger
+     LANGUAGE plpgsql AS
+  $$BEGIN 
+     NEW.geom = (select ST_SetSRID((new.location)::GEOMETRY(POINT), 4326) from qt LIMIT 1);
+    RETURN NEW; 
+  END;$$;
+
+  CREATE OR REPLACE TRIGGER update_geom 
+     AFTER INSERT ON qt FOR EACH ROW
+    EXECUTE PROCEDURE togeom();
