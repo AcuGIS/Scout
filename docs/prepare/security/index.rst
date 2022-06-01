@@ -12,7 +12,7 @@
 Security
 **********************
 
-It's best to create your table in a dedicated schema and grant access to a minimally privlaged user.
+Create your table in a dedicated schema and grant access to a minimally privlaged user.
 
 Below, we'll create a new user, 'minuser' with only the required permissions for the table 'mytable'.
 
