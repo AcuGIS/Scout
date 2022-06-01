@@ -18,7 +18,7 @@ The column name can be anything you wish.  Below, we are using 'myqr'
 
 You can add as many varchar columns as wish as well
 
-Create the table in PostgreSQL with image field:
+Below, we add Column 'myqr' to serve as our QR scan field:
 
 .. code-block:: console
 
