@@ -17,8 +17,8 @@ Below is the Quick Start
 
 	CREATE TABLE mytable (
     	id integer DEFAULT nextval('public.my_id_seq'::regclass) NOT NULL,
-      title character varying(200),
-      qr character varying(200),
+      	title character varying(200),
+      	qr character varying(200),
     	location point,
     	latlngalt json,
     	"timestamp" timestamp without time zone
@@ -28,7 +28,7 @@ Below is the Quick Start
 
 3. Add your PostgreSQL connection details.
 
- .. image:: _static/add-connection.jpg  
+ .. image:: _static/add-connection-small.jpg  
 
 4. Start adding data
 
