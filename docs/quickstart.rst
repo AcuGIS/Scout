@@ -5,6 +5,7 @@ Quic Start
 Below is the Quick Start
 
 1. Create a table in PostgreSQL using below:
+------------------------------------------
 
 .. code-block:: console
 
@@ -25,12 +26,17 @@ Below is the Quick Start
 	);
 
 2. Install Scout on your iOS or Android Device
+------------------------------------------
+
+App can be downloaded via Google Playstore or Apple App Store
 
 3. Add your PostgreSQL connection details.
+------------------------------------------
 
- .. image:: _static/add-connection-small.jpg  
+ .. image:: _static/connection-small.jpg  
 
 4. Start adding data
+------------------------------------------
 
  .. image:: _static/scout-menu-small.jpg  
 
