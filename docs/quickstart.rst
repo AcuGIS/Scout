@@ -39,6 +39,10 @@ App can be downloaded via Google Playstore or Apple App Store
 ------------------------------------------
 
  .. image:: _static/scout-menu-small.jpg  
+ 
+ 
+ .. NOTE:: 
+   Be sure to read the rest of the Docs for important information about best practice, security, and other features. 
 
-Be sure to read the rest of the Docs for important information.
+
 
