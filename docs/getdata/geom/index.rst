@@ -45,5 +45,5 @@ If you wish to automate this, you can create a trigger like below to update a ge
   END;$$;
 
   CREATE OR REPLACE TRIGGER update_geom 
-     AFTER INSERT ON qt FOR EACH ROW
+     AFTER INSERT ON mytable FOR EACH ROW
     EXECUTE PROCEDURE togeom();
