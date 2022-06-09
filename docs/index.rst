@@ -9,7 +9,7 @@ AcuGIS Scout
    :maxdepth: 2
 
    intro
-   installing
+   quickstart
    
    
 .. toctree::
